@@ -1,0 +1,2688 @@
+X: 0.0
+Y: 0.0
+Z: -0.0
+distance: 0.0
+azimuth: 0.0
+channel: 0
+ 
+X: 0.0
+Y: 0.0
+Z: -0.0
+distance: 0.0
+azimuth: 0.0
+channel: 1
+ 
+X: 0.0
+Y: 0.0
+Z: -0.0
+distance: 0.0
+azimuth: 0.0
+channel: 2
+ 
+X: 0.0
+Y: 7.858767393533102
+Z: -1.1044777292190793
+distance: 7.936
+azimuth: 0.0
+channel: 3
+ 
+X: 0.0
+Y: 7.217213624028869
+Z: -3.837460554211871
+distance: 8.174
+azimuth: 0.0
+channel: 4
+ 
+X: 0.0
+Y: 63.60158563721443
+Z: -7.43770995885687
+distance: 64.035
+azimuth: 0.0
+channel: 5
+ 
+X: 0.0
+Y: 3.5243841493237396
+Z: -1.7702690100647362
+distance: 3.944
+azimuth: 0.0
+channel: 6
+ 
+X: 0.0
+Y: 13.540200597135263
+Z: -1.2632374239777147
+distance: 13.599
+azimuth: 0.0
+channel: 7
+ 
+X: 0.0
+Y: 14.774473683940796
+Z: -6.993328489534928
+distance: 16.346
+azimuth: 0.0
+channel: 8
+ 
+X: 0.0
+Y: 61.81605150245053
+Z: -4.322599408502213
+distance: 61.967
+azimuth: 0.0
+channel: 9
+ 
+X: 0.0
+Y: 11.218338219851137
+Z: -4.994725976970826
+distance: 12.28
+azimuth: 0.0
+channel: 10
+ 
+X: 0.0
+Y: 0.06293160738365099
+Z: -0.002934755885930574
+distance: 0.063
+azimuth: 0.0
+channel: 11
+ 
+X: 0.0
+Y: 0.0
+Z: -0.0
+distance: 0.0
+azimuth: 0.0
+channel: 12
+ 
+X: 0.0
+Y: 0.0
+Z: -0.0
+distance: 0.0
+azimuth: 0.0
+channel: 13
+ 
+X: 0.0
+Y: 0.0
+Z: -0.0
+distance: 0.0
+azimuth: 0.0
+channel: 14
+ 
+X: 0.0
+Y: 0.0
+Z: 0.0
+distance: 0.0
+azimuth: 0.0
+channel: 15
+ 
+X: 0.0
+Y: 0.0
+Z: -0.0
+distance: 0.0
+azimuth: 0.0
+channel: 16
+ 
+X: 0.0
+Y: 0.0
+Z: 0.0
+distance: 0.0
+azimuth: 0.0
+channel: 17
+ 
+X: 0.0
+Y: 0.0
+Z: -0.0
+distance: 0.0
+azimuth: 0.0
+channel: 18
+ 
+X: 0.0
+Y: 0.0
+Z: 0.0
+distance: 0.0
+azimuth: 0.0
+channel: 19
+ 
+X: 0.0
+Y: 0.0
+Z: -0.0
+distance: 0.0
+azimuth: 0.0
+channel: 20
+ 
+X: 0.0
+Y: 0.0
+Z: 0.0
+distance: 0.0
+azimuth: 0.0
+channel: 21
+ 
+X: 0.0
+Y: 0.0
+Z: -0.0
+distance: 0.0
+azimuth: 0.0
+channel: 22
+ 
+X: 0.0
+Y: 0.0
+Z: 0.0
+distance: 0.0
+azimuth: 0.0
+channel: 23
+ 
+X: 0.0
+Y: 0.0
+Z: -0.0
+distance: 0.0
+azimuth: 0.0
+channel: 24
+ 
+X: 0.0
+Y: 0.0
+Z: 0.0
+distance: 0.0
+azimuth: 0.0
+channel: 25
+ 
+X: 0.0
+Y: 0.0
+Z: -0.0
+distance: 0.0
+azimuth: 0.0
+channel: 26
+ 
+X: 0.0
+Y: 0.0
+Z: 0.0
+distance: 0.0
+azimuth: 0.0
+channel: 27
+ 
+X: 0.0
+Y: 0.0
+Z: -0.0
+distance: 0.0
+azimuth: 0.0
+channel: 28
+ 
+X: 0.0
+Y: 0.0
+Z: 0.0
+distance: 0.0
+azimuth: 0.0
+channel: 29
+ 
+X: 0.0
+Y: 0.0
+Z: -0.0
+distance: 0.0
+azimuth: 0.0
+channel: 30
+ 
+X: 0.0
+Y: 0.0
+Z: 0.0
+distance: 0.0
+azimuth: 0.0
+channel: 31
+ 
+X: 0.0
+Y: 0.0
+Z: -0.0
+distance: 0.0
+azimuth: 0.0
+channel: 0
+ 
+X: 0.0
+Y: 0.0
+Z: -0.0
+distance: 0.0
+azimuth: 0.0
+channel: 1
+ 
+X: 0.0
+Y: 0.0
+Z: -0.0
+distance: 0.0
+azimuth: 0.0
+channel: 2
+ 
+X: 0.0
+Y: 0.0
+Z: -0.0
+distance: 0.0
+azimuth: 0.0
+channel: 3
+ 
+X: 0.0
+Y: 0.0
+Z: -0.0
+distance: 0.0
+azimuth: 0.0
+channel: 4
+ 
+X: 0.0
+Y: 0.0
+Z: -0.0
+distance: 0.0
+azimuth: 0.0
+channel: 5
+ 
+X: 0.0
+Y: 0.0
+Z: -0.0
+distance: 0.0
+azimuth: 0.0
+channel: 6
+ 
+X: 0.0
+Y: 0.0
+Z: -0.0
+distance: 0.0
+azimuth: 0.0
+channel: 7
+ 
+X: 0.0
+Y: 0.0
+Z: -0.0
+distance: 0.0
+azimuth: 0.0
+channel: 8
+ 
+X: 0.0
+Y: 0.0
+Z: -0.0
+distance: 0.0
+azimuth: 0.0
+channel: 9
+ 
+X: 0.0
+Y: 0.0
+Z: -0.0
+distance: 0.0
+azimuth: 0.0
+channel: 10
+ 
+X: 0.0
+Y: 0.0
+Z: -0.0
+distance: 0.0
+azimuth: 0.0
+channel: 11
+ 
+X: 0.0
+Y: 0.0
+Z: -0.0
+distance: 0.0
+azimuth: 0.0
+channel: 12
+ 
+X: 0.0
+Y: 0.0
+Z: -0.0
+distance: 0.0
+azimuth: 0.0
+channel: 13
+ 
+X: 0.0
+Y: 0.0
+Z: -0.0
+distance: 0.0
+azimuth: 0.0
+channel: 14
+ 
+X: 0.0
+Y: 0.0
+Z: 0.0
+distance: 0.0
+azimuth: 0.0
+channel: 15
+ 
+X: 0.0
+Y: 0.0
+Z: -0.0
+distance: 0.0
+azimuth: 0.0
+channel: 16
+ 
+X: 0.0
+Y: 0.0
+Z: 0.0
+distance: 0.0
+azimuth: 0.0
+channel: 17
+ 
+X: 0.0
+Y: 0.0
+Z: -0.0
+distance: 0.0
+azimuth: 0.0
+channel: 18
+ 
+X: 0.0
+Y: 0.0
+Z: 0.0
+distance: 0.0
+azimuth: 0.0
+channel: 19
+ 
+X: 0.0
+Y: 0.0
+Z: -0.0
+distance: 0.0
+azimuth: 0.0
+channel: 20
+ 
+X: 0.0
+Y: 0.0
+Z: 0.0
+distance: 0.0
+azimuth: 0.0
+channel: 21
+ 
+X: 0.0
+Y: 0.0
+Z: -0.0
+distance: 0.0
+azimuth: 0.0
+channel: 22
+ 
+X: 0.0
+Y: 0.0
+Z: 0.0
+distance: 0.0
+azimuth: 0.0
+channel: 23
+ 
+X: 0.0
+Y: 0.0
+Z: -0.0
+distance: 0.0
+azimuth: 0.0
+channel: 24
+ 
+X: 0.0
+Y: 0.0
+Z: 0.0
+distance: 0.0
+azimuth: 0.0
+channel: 25
+ 
+X: 0.0
+Y: 0.0
+Z: -0.0
+distance: 0.0
+azimuth: 0.0
+channel: 26
+ 
+X: 0.0
+Y: 0.0
+Z: 0.0
+distance: 0.0
+azimuth: 0.0
+channel: 27
+ 
+X: 0.0
+Y: 0.0
+Z: -0.0
+distance: 0.0
+azimuth: 0.0
+channel: 28
+ 
+X: 0.0
+Y: 0.0
+Z: 0.0
+distance: 0.0
+azimuth: 0.0
+channel: 29
+ 
+X: 0.0
+Y: 0.0
+Z: -0.0
+distance: 0.0
+azimuth: 0.0
+channel: 30
+ 
+X: 0.0
+Y: 41.25809146157685
+Z: 7.773425560726705
+distance: 41.984
+azimuth: 0.0
+channel: 31
+ 
+X: 0.0
+Y: 0.0
+Z: -0.0
+distance: 0.0
+azimuth: 0.0
+channel: 0
+ 
+X: 0.0
+Y: 0.0
+Z: -0.0
+distance: 0.0
+azimuth: 0.0
+channel: 1
+ 
+X: 0.0
+Y: 0.0
+Z: -0.0
+distance: 0.0
+azimuth: 0.0
+channel: 2
+ 
+X: 0.0
+Y: 0.0
+Z: -0.0
+distance: 0.0
+azimuth: 0.0
+channel: 3
+ 
+X: 0.0
+Y: 0.0
+Z: -0.0
+distance: 0.0
+azimuth: 0.0
+channel: 4
+ 
+X: 0.0
+Y: 0.0
+Z: -0.0
+distance: 0.0
+azimuth: 0.0
+channel: 5
+ 
+X: 0.0
+Y: 0.0
+Z: -0.0
+distance: 0.0
+azimuth: 0.0
+channel: 6
+ 
+X: 0.0
+Y: 0.0
+Z: -0.0
+distance: 0.0
+azimuth: 0.0
+channel: 7
+ 
+X: 0.0
+Y: 0.0
+Z: -0.0
+distance: 0.0
+azimuth: 0.0
+channel: 8
+ 
+X: 0.0
+Y: 0.0
+Z: -0.0
+distance: 0.0
+azimuth: 0.0
+channel: 9
+ 
+X: 0.0
+Y: 0.0
+Z: -0.0
+distance: 0.0
+azimuth: 0.0
+channel: 10
+ 
+X: 0.0
+Y: 0.0
+Z: -0.0
+distance: 0.0
+azimuth: 0.0
+channel: 11
+ 
+X: 0.0
+Y: 0.0
+Z: -0.0
+distance: 0.0
+azimuth: 0.0
+channel: 12
+ 
+X: 0.0
+Y: 0.0
+Z: -0.0
+distance: 0.0
+azimuth: 0.0
+channel: 13
+ 
+X: 0.0
+Y: 0.0
+Z: -0.0
+distance: 0.0
+azimuth: 0.0
+channel: 14
+ 
+X: 0.0
+Y: 0.0
+Z: 0.0
+distance: 0.0
+azimuth: 0.0
+channel: 15
+ 
+X: 0.0
+Y: 0.0
+Z: -0.0
+distance: 0.0
+azimuth: 0.0
+channel: 16
+ 
+X: 0.0
+Y: 0.0
+Z: 0.0
+distance: 0.0
+azimuth: 0.0
+channel: 17
+ 
+X: 0.0
+Y: 0.0
+Z: -0.0
+distance: 0.0
+azimuth: 0.0
+channel: 18
+ 
+X: 0.0
+Y: 0.0
+Z: 0.0
+distance: 0.0
+azimuth: 0.0
+channel: 19
+ 
+X: 0.0
+Y: 0.0
+Z: -0.0
+distance: 0.0
+azimuth: 0.0
+channel: 20
+ 
+X: 0.0
+Y: 0.0
+Z: 0.0
+distance: 0.0
+azimuth: 0.0
+channel: 21
+ 
+X: 0.0
+Y: 0.0
+Z: -0.0
+distance: 0.0
+azimuth: 0.0
+channel: 22
+ 
+X: 0.0
+Y: 0.0
+Z: 0.0
+distance: 0.0
+azimuth: 0.0
+channel: 23
+ 
+X: 0.0
+Y: 0.0
+Z: -0.0
+distance: 0.0
+azimuth: 0.0
+channel: 24
+ 
+X: 0.0
+Y: 0.0
+Z: 0.0
+distance: 0.0
+azimuth: 0.0
+channel: 25
+ 
+X: 0.0
+Y: 0.0
+Z: -0.0
+distance: 0.0
+azimuth: 0.0
+channel: 26
+ 
+X: 0.0
+Y: 0.0
+Z: 0.0
+distance: 0.0
+azimuth: 0.0
+channel: 27
+ 
+X: 0.0
+Y: 0.0
+Z: -0.0
+distance: 0.0
+azimuth: 0.0
+channel: 28
+ 
+X: 0.0
+Y: 0.0
+Z: 0.0
+distance: 0.0
+azimuth: 0.0
+channel: 29
+ 
+X: 0.0
+Y: 0.0
+Z: -0.0
+distance: 0.0
+azimuth: 0.0
+channel: 30
+ 
+X: 0.0
+Y: 0.0
+Z: 0.0
+distance: 0.0
+azimuth: 0.0
+channel: 31
+ 
+X: 0.0
+Y: 0.0
+Z: -0.0
+distance: 0.0
+azimuth: 0.0
+channel: 0
+ 
+X: 0.0
+Y: 0.0
+Z: -0.0
+distance: 0.0
+azimuth: 0.0
+channel: 1
+ 
+X: 0.0
+Y: 0.0
+Z: -0.0
+distance: 0.0
+azimuth: 0.0
+channel: 2
+ 
+X: 0.0
+Y: 0.0
+Z: -0.0
+distance: 0.0
+azimuth: 0.0
+channel: 3
+ 
+X: 0.0
+Y: 0.0
+Z: -0.0
+distance: 0.0
+azimuth: 0.0
+channel: 4
+ 
+X: 0.0
+Y: 0.0
+Z: -0.0
+distance: 0.0
+azimuth: 0.0
+channel: 5
+ 
+X: 0.0
+Y: 0.0
+Z: -0.0
+distance: 0.0
+azimuth: 0.0
+channel: 6
+ 
+X: 0.0
+Y: 0.0
+Z: -0.0
+distance: 0.0
+azimuth: 0.0
+channel: 7
+ 
+X: 0.0
+Y: 0.0
+Z: -0.0
+distance: 0.0
+azimuth: 0.0
+channel: 8
+ 
+X: 0.0
+Y: 0.0
+Z: -0.0
+distance: 0.0
+azimuth: 0.0
+channel: 9
+ 
+X: 0.0
+Y: 0.0
+Z: -0.0
+distance: 0.0
+azimuth: 0.0
+channel: 10
+ 
+X: 0.0
+Y: 0.0
+Z: -0.0
+distance: 0.0
+azimuth: 0.0
+channel: 11
+ 
+X: 0.0
+Y: 0.0
+Z: -0.0
+distance: 0.0
+azimuth: 0.0
+channel: 12
+ 
+X: 0.0
+Y: 0.0
+Z: -0.0
+distance: 0.0
+azimuth: 0.0
+channel: 13
+ 
+X: 0.0
+Y: 0.0
+Z: -0.0
+distance: 0.0
+azimuth: 0.0
+channel: 14
+ 
+X: 0.0
+Y: 0.0
+Z: 0.0
+distance: 0.0
+azimuth: 0.0
+channel: 15
+ 
+X: 0.0
+Y: 0.0
+Z: -0.0
+distance: 0.0
+azimuth: 0.0
+channel: 16
+ 
+X: 0.0
+Y: 0.0
+Z: 0.0
+distance: 0.0
+azimuth: 0.0
+channel: 17
+ 
+X: 0.0
+Y: 0.0
+Z: -0.0
+distance: 0.0
+azimuth: 0.0
+channel: 18
+ 
+X: 0.0
+Y: 0.0
+Z: 0.0
+distance: 0.0
+azimuth: 0.0
+channel: 19
+ 
+X: 0.0
+Y: 0.0
+Z: -0.0
+distance: 0.0
+azimuth: 0.0
+channel: 20
+ 
+X: 0.0
+Y: 0.0
+Z: 0.0
+distance: 0.0
+azimuth: 0.0
+channel: 21
+ 
+X: 0.0
+Y: 0.0
+Z: -0.0
+distance: 0.0
+azimuth: 0.0
+channel: 22
+ 
+X: 0.0
+Y: 0.0
+Z: 0.0
+distance: 0.0
+azimuth: 0.0
+channel: 23
+ 
+X: 0.0
+Y: 0.0
+Z: -0.0
+distance: 0.0
+azimuth: 0.0
+channel: 24
+ 
+X: 0.0
+Y: 0.0
+Z: 0.0
+distance: 0.0
+azimuth: 0.0
+channel: 25
+ 
+X: 0.0
+Y: 0.0
+Z: -0.0
+distance: 0.0
+azimuth: 0.0
+channel: 26
+ 
+X: 0.0
+Y: 0.0
+Z: 0.0
+distance: 0.0
+azimuth: 0.0
+channel: 27
+ 
+X: 0.0
+Y: 0.0
+Z: -0.0
+distance: 0.0
+azimuth: 0.0
+channel: 28
+ 
+X: 0.0
+Y: 0.0
+Z: 0.0
+distance: 0.0
+azimuth: 0.0
+channel: 29
+ 
+X: 0.0
+Y: 0.0
+Z: -0.0
+distance: 0.0
+azimuth: 0.0
+channel: 30
+ 
+X: 0.0
+Y: 0.0
+Z: 0.0
+distance: 0.0
+azimuth: 0.0
+channel: 31
+ 
+X: 0.0
+Y: 0.0
+Z: -0.0
+distance: 0.0
+azimuth: 0.0
+channel: 0
+ 
+X: 0.0
+Y: 0.0
+Z: -0.0
+distance: 0.0
+azimuth: 0.0
+channel: 1
+ 
+X: 0.0
+Y: 0.0
+Z: -0.0
+distance: 0.0
+azimuth: 0.0
+channel: 2
+ 
+X: 0.0
+Y: 0.0
+Z: -0.0
+distance: 0.0
+azimuth: 0.0
+channel: 3
+ 
+X: 0.0
+Y: 0.0
+Z: -0.0
+distance: 0.0
+azimuth: 0.0
+channel: 4
+ 
+X: 0.0
+Y: 0.0
+Z: -0.0
+distance: 0.0
+azimuth: 0.0
+channel: 5
+ 
+X: 0.0
+Y: 0.0
+Z: -0.0
+distance: 0.0
+azimuth: 0.0
+channel: 6
+ 
+X: 0.0
+Y: 0.0
+Z: -0.0
+distance: 0.0
+azimuth: 0.0
+channel: 7
+ 
+X: 0.0
+Y: 0.0
+Z: -0.0
+distance: 0.0
+azimuth: 0.0
+channel: 8
+ 
+X: 0.0
+Y: 0.0
+Z: -0.0
+distance: 0.0
+azimuth: 0.0
+channel: 9
+ 
+X: 0.0
+Y: 0.0
+Z: -0.0
+distance: 0.0
+azimuth: 0.0
+channel: 10
+ 
+X: 0.0
+Y: 0.0
+Z: -0.0
+distance: 0.0
+azimuth: 0.0
+channel: 11
+ 
+X: 0.0
+Y: 0.0
+Z: -0.0
+distance: 0.0
+azimuth: 0.0
+channel: 12
+ 
+X: 0.0
+Y: 0.0
+Z: -0.0
+distance: 0.0
+azimuth: 0.0
+channel: 13
+ 
+X: 0.0
+Y: 0.0
+Z: -0.0
+distance: 0.0
+azimuth: 0.0
+channel: 14
+ 
+X: 0.0
+Y: 0.0
+Z: 0.0
+distance: 0.0
+azimuth: 0.0
+channel: 15
+ 
+X: 0.0
+Y: 0.0
+Z: -0.0
+distance: 0.0
+azimuth: 0.0
+channel: 16
+ 
+X: 0.0
+Y: 0.0
+Z: 0.0
+distance: 0.0
+azimuth: 0.0
+channel: 17
+ 
+X: 0.0
+Y: 0.0
+Z: -0.0
+distance: 0.0
+azimuth: 0.0
+channel: 18
+ 
+X: 0.0
+Y: 0.0
+Z: 0.0
+distance: 0.0
+azimuth: 0.0
+channel: 19
+ 
+X: 0.0
+Y: 0.0
+Z: -0.0
+distance: 0.0
+azimuth: 0.0
+channel: 20
+ 
+X: 0.0
+Y: 0.0
+Z: 0.0
+distance: 0.0
+azimuth: 0.0
+channel: 21
+ 
+X: 0.0
+Y: 0.0
+Z: -0.0
+distance: 0.0
+azimuth: 0.0
+channel: 22
+ 
+X: 0.0
+Y: 0.0
+Z: 0.0
+distance: 0.0
+azimuth: 0.0
+channel: 23
+ 
+X: 0.0
+Y: 0.0
+Z: -0.0
+distance: 0.0
+azimuth: 0.0
+channel: 24
+ 
+X: 0.0
+Y: 0.0
+Z: 0.0
+distance: 0.0
+azimuth: 0.0
+channel: 25
+ 
+X: 0.0
+Y: 0.0
+Z: -0.0
+distance: 0.0
+azimuth: 0.0
+channel: 26
+ 
+X: 0.0
+Y: 0.0
+Z: 0.0
+distance: 0.0
+azimuth: 0.0
+channel: 27
+ 
+X: 0.0
+Y: 0.0
+Z: -0.0
+distance: 0.0
+azimuth: 0.0
+channel: 28
+ 
+X: 0.0
+Y: 0.0
+Z: 0.0
+distance: 0.0
+azimuth: 0.0
+channel: 29
+ 
+X: 0.0
+Y: 0.0
+Z: -0.0
+distance: 0.0
+azimuth: 0.0
+channel: 30
+ 
+X: 0.0
+Y: 0.0
+Z: 0.0
+distance: 0.0
+azimuth: 0.0
+channel: 31
+ 
+X: 0.0
+Y: 0.0
+Z: -0.0
+distance: 0.0
+azimuth: 0.0
+channel: 0
+ 
+X: 0.0
+Y: 0.0
+Z: -0.0
+distance: 0.0
+azimuth: 0.0
+channel: 1
+ 
+X: 0.0
+Y: 0.0
+Z: -0.0
+distance: 0.0
+azimuth: 0.0
+channel: 2
+ 
+X: 0.0
+Y: 0.0
+Z: -0.0
+distance: 0.0
+azimuth: 0.0
+channel: 3
+ 
+X: 0.0
+Y: 0.0
+Z: -0.0
+distance: 0.0
+azimuth: 0.0
+channel: 4
+ 
+X: 0.0
+Y: 0.0
+Z: -0.0
+distance: 0.0
+azimuth: 0.0
+channel: 5
+ 
+X: 0.0
+Y: 0.0
+Z: -0.0
+distance: 0.0
+azimuth: 0.0
+channel: 6
+ 
+X: 0.0
+Y: 0.0
+Z: -0.0
+distance: 0.0
+azimuth: 0.0
+channel: 7
+ 
+X: 0.0
+Y: 0.0
+Z: -0.0
+distance: 0.0
+azimuth: 0.0
+channel: 8
+ 
+X: 0.0
+Y: 0.0
+Z: -0.0
+distance: 0.0
+azimuth: 0.0
+channel: 9
+ 
+X: 0.0
+Y: 0.0
+Z: -0.0
+distance: 0.0
+azimuth: 0.0
+channel: 10
+ 
+X: 0.0
+Y: 0.0
+Z: -0.0
+distance: 0.0
+azimuth: 0.0
+channel: 11
+ 
+X: 0.0
+Y: 0.0
+Z: -0.0
+distance: 0.0
+azimuth: 0.0
+channel: 12
+ 
+X: 0.0
+Y: 0.0
+Z: -0.0
+distance: 0.0
+azimuth: 0.0
+channel: 13
+ 
+X: 0.0
+Y: 0.0
+Z: -0.0
+distance: 0.0
+azimuth: 0.0
+channel: 14
+ 
+X: 0.0
+Y: 0.0
+Z: 0.0
+distance: 0.0
+azimuth: 0.0
+channel: 15
+ 
+X: 0.0
+Y: 0.0
+Z: -0.0
+distance: 0.0
+azimuth: 0.0
+channel: 16
+ 
+X: 0.0
+Y: 0.0
+Z: 0.0
+distance: 0.0
+azimuth: 0.0
+channel: 17
+ 
+X: 0.0
+Y: 0.0
+Z: -0.0
+distance: 0.0
+azimuth: 0.0
+channel: 18
+ 
+X: 0.0
+Y: 0.0
+Z: 0.0
+distance: 0.0
+azimuth: 0.0
+channel: 19
+ 
+X: 0.0
+Y: 0.0
+Z: -0.0
+distance: 0.0
+azimuth: 0.0
+channel: 20
+ 
+X: 0.0
+Y: 0.0
+Z: 0.0
+distance: 0.0
+azimuth: 0.0
+channel: 21
+ 
+X: 0.0
+Y: 0.0
+Z: -0.0
+distance: 0.0
+azimuth: 0.0
+channel: 22
+ 
+X: 0.0
+Y: 0.0
+Z: 0.0
+distance: 0.0
+azimuth: 0.0
+channel: 23
+ 
+X: 0.0
+Y: 0.0
+Z: -0.0
+distance: 0.0
+azimuth: 0.0
+channel: 24
+ 
+X: 0.0
+Y: 0.0
+Z: 0.0
+distance: 0.0
+azimuth: 0.0
+channel: 25
+ 
+X: 0.0
+Y: 0.0
+Z: -0.0
+distance: 0.0
+azimuth: 0.0
+channel: 26
+ 
+X: 0.0
+Y: 0.0
+Z: 0.0
+distance: 0.0
+azimuth: 0.0
+channel: 27
+ 
+X: 0.0
+Y: 0.0
+Z: -0.0
+distance: 0.0
+azimuth: 0.0
+channel: 28
+ 
+X: 0.0
+Y: 0.0
+Z: 0.0
+distance: 0.0
+azimuth: 0.0
+channel: 29
+ 
+X: 0.0
+Y: 0.0
+Z: -0.0
+distance: 0.0
+azimuth: 0.0
+channel: 30
+ 
+X: 0.0
+Y: 0.0
+Z: 0.0
+distance: 0.0
+azimuth: 0.0
+channel: 31
+ 
+X: 0.0
+Y: 0.0
+Z: -0.0
+distance: 0.0
+azimuth: 0.0
+channel: 0
+ 
+X: 0.0
+Y: 0.0
+Z: -0.0
+distance: 0.0
+azimuth: 0.0
+channel: 1
+ 
+X: 0.0
+Y: 0.0
+Z: -0.0
+distance: 0.0
+azimuth: 0.0
+channel: 2
+ 
+X: 0.0
+Y: 0.0
+Z: -0.0
+distance: 0.0
+azimuth: 0.0
+channel: 3
+ 
+X: 0.0
+Y: 0.0
+Z: -0.0
+distance: 0.0
+azimuth: 0.0
+channel: 4
+ 
+X: 0.0
+Y: 0.0
+Z: -0.0
+distance: 0.0
+azimuth: 0.0
+channel: 5
+ 
+X: 0.0
+Y: 0.0
+Z: -0.0
+distance: 0.0
+azimuth: 0.0
+channel: 6
+ 
+X: 0.0
+Y: 0.0
+Z: -0.0
+distance: 0.0
+azimuth: 0.0
+channel: 7
+ 
+X: 0.0
+Y: 0.0
+Z: -0.0
+distance: 0.0
+azimuth: 0.0
+channel: 8
+ 
+X: 0.0
+Y: 0.0
+Z: -0.0
+distance: 0.0
+azimuth: 0.0
+channel: 9
+ 
+X: 0.0
+Y: 0.0
+Z: -0.0
+distance: 0.0
+azimuth: 0.0
+channel: 10
+ 
+X: 0.0
+Y: 0.0
+Z: -0.0
+distance: 0.0
+azimuth: 0.0
+channel: 11
+ 
+X: 0.0
+Y: 0.0
+Z: -0.0
+distance: 0.0
+azimuth: 0.0
+channel: 12
+ 
+X: 0.0
+Y: 0.0
+Z: -0.0
+distance: 0.0
+azimuth: 0.0
+channel: 13
+ 
+X: 0.0
+Y: 0.0
+Z: -0.0
+distance: 0.0
+azimuth: 0.0
+channel: 14
+ 
+X: 0.0
+Y: 0.0
+Z: 0.0
+distance: 0.0
+azimuth: 0.0
+channel: 15
+ 
+X: 0.0
+Y: 0.0
+Z: -0.0
+distance: 0.0
+azimuth: 0.0
+channel: 16
+ 
+X: 0.0
+Y: 0.0
+Z: 0.0
+distance: 0.0
+azimuth: 0.0
+channel: 17
+ 
+X: 0.0
+Y: 0.0
+Z: -0.0
+distance: 0.0
+azimuth: 0.0
+channel: 18
+ 
+X: 0.0
+Y: 0.0
+Z: 0.0
+distance: 0.0
+azimuth: 0.0
+channel: 19
+ 
+X: 0.0
+Y: 0.0
+Z: -0.0
+distance: 0.0
+azimuth: 0.0
+channel: 20
+ 
+X: 0.0
+Y: 0.0
+Z: 0.0
+distance: 0.0
+azimuth: 0.0
+channel: 21
+ 
+X: 0.0
+Y: 0.0
+Z: -0.0
+distance: 0.0
+azimuth: 0.0
+channel: 22
+ 
+X: 0.0
+Y: 0.0
+Z: 0.0
+distance: 0.0
+azimuth: 0.0
+channel: 23
+ 
+X: 0.0
+Y: 0.0
+Z: -0.0
+distance: 0.0
+azimuth: 0.0
+channel: 24
+ 
+X: 0.0
+Y: 0.0
+Z: 0.0
+distance: 0.0
+azimuth: 0.0
+channel: 25
+ 
+X: 0.0
+Y: 0.0
+Z: -0.0
+distance: 0.0
+azimuth: 0.0
+channel: 26
+ 
+X: 0.0
+Y: 0.0
+Z: 0.0
+distance: 0.0
+azimuth: 0.0
+channel: 27
+ 
+X: 0.0
+Y: 0.0
+Z: -0.0
+distance: 0.0
+azimuth: 0.0
+channel: 28
+ 
+X: 0.0
+Y: 0.0
+Z: 0.0
+distance: 0.0
+azimuth: 0.0
+channel: 29
+ 
+X: 0.0
+Y: 0.0
+Z: -0.0
+distance: 0.0
+azimuth: 0.0
+channel: 30
+ 
+X: 0.0
+Y: 0.0
+Z: 0.0
+distance: 0.0
+azimuth: 0.0
+channel: 31
+ 
+X: 0.0
+Y: 0.0
+Z: -0.0
+distance: 0.0
+azimuth: 0.0
+channel: 0
+ 
+X: 0.0
+Y: 0.0
+Z: -0.0
+distance: 0.0
+azimuth: 0.0
+channel: 1
+ 
+X: 0.0
+Y: 0.0
+Z: -0.0
+distance: 0.0
+azimuth: 0.0
+channel: 2
+ 
+X: 0.0
+Y: 0.0
+Z: -0.0
+distance: 0.0
+azimuth: 0.0
+channel: 3
+ 
+X: 0.0
+Y: 0.0
+Z: -0.0
+distance: 0.0
+azimuth: 0.0
+channel: 4
+ 
+X: 0.0
+Y: 0.0
+Z: -0.0
+distance: 0.0
+azimuth: 0.0
+channel: 5
+ 
+X: 0.0
+Y: 0.0
+Z: -0.0
+distance: 0.0
+azimuth: 0.0
+channel: 6
+ 
+X: 0.0
+Y: 0.0
+Z: -0.0
+distance: 0.0
+azimuth: 0.0
+channel: 7
+ 
+X: 0.0
+Y: 0.0
+Z: -0.0
+distance: 0.0
+azimuth: 0.0
+channel: 8
+ 
+X: 0.0
+Y: 0.0
+Z: -0.0
+distance: 0.0
+azimuth: 0.0
+channel: 9
+ 
+X: 0.0
+Y: 0.0
+Z: -0.0
+distance: 0.0
+azimuth: 0.0
+channel: 10
+ 
+X: 0.0
+Y: 0.0
+Z: -0.0
+distance: 0.0
+azimuth: 0.0
+channel: 11
+ 
+X: 0.0
+Y: 0.0
+Z: -0.0
+distance: 0.0
+azimuth: 0.0
+channel: 12
+ 
+X: 0.0
+Y: 0.0
+Z: -0.0
+distance: 0.0
+azimuth: 0.0
+channel: 13
+ 
+X: 0.0
+Y: 0.0
+Z: -0.0
+distance: 0.0
+azimuth: 0.0
+channel: 14
+ 
+X: 0.0
+Y: 0.0
+Z: 0.0
+distance: 0.0
+azimuth: 0.0
+channel: 15
+ 
+X: 0.0
+Y: 0.0
+Z: -0.0
+distance: 0.0
+azimuth: 0.0
+channel: 16
+ 
+X: 0.0
+Y: 0.0
+Z: 0.0
+distance: 0.0
+azimuth: 0.0
+channel: 17
+ 
+X: 0.0
+Y: 0.0
+Z: -0.0
+distance: 0.0
+azimuth: 0.0
+channel: 18
+ 
+X: 0.0
+Y: 0.0
+Z: 0.0
+distance: 0.0
+azimuth: 0.0
+channel: 19
+ 
+X: 0.0
+Y: 0.0
+Z: -0.0
+distance: 0.0
+azimuth: 0.0
+channel: 20
+ 
+X: 0.0
+Y: 0.0
+Z: 0.0
+distance: 0.0
+azimuth: 0.0
+channel: 21
+ 
+X: 0.0
+Y: 0.0
+Z: -0.0
+distance: 0.0
+azimuth: 0.0
+channel: 22
+ 
+X: 0.0
+Y: 0.0
+Z: 0.0
+distance: 0.0
+azimuth: 0.0
+channel: 23
+ 
+X: 0.0
+Y: 0.0
+Z: -0.0
+distance: 0.0
+azimuth: 0.0
+channel: 24
+ 
+X: 0.0
+Y: 0.0
+Z: 0.0
+distance: 0.0
+azimuth: 0.0
+channel: 25
+ 
+X: 0.0
+Y: 0.0
+Z: -0.0
+distance: 0.0
+azimuth: 0.0
+channel: 26
+ 
+X: 0.0
+Y: 0.0
+Z: 0.0
+distance: 0.0
+azimuth: 0.0
+channel: 27
+ 
+X: 0.0
+Y: 0.0
+Z: -0.0
+distance: 0.0
+azimuth: 0.0
+channel: 28
+ 
+X: 0.0
+Y: 0.0
+Z: 0.0
+distance: 0.0
+azimuth: 0.0
+channel: 29
+ 
+X: 0.0
+Y: 0.0
+Z: -0.0
+distance: 0.0
+azimuth: 0.0
+channel: 30
+ 
+X: 0.0
+Y: 0.0
+Z: 0.0
+distance: 0.0
+azimuth: 0.0
+channel: 31
+ 
+X: 0.0
+Y: 0.0
+Z: -0.0
+distance: 0.0
+azimuth: 0.0
+channel: 0
+ 
+X: 0.0
+Y: 0.0
+Z: -0.0
+distance: 0.0
+azimuth: 0.0
+channel: 1
+ 
+X: 0.0
+Y: 0.0
+Z: -0.0
+distance: 0.0
+azimuth: 0.0
+channel: 2
+ 
+X: 0.0
+Y: 0.0
+Z: -0.0
+distance: 0.0
+azimuth: 0.0
+channel: 3
+ 
+X: 0.0
+Y: 0.0
+Z: -0.0
+distance: 0.0
+azimuth: 0.0
+channel: 4
+ 
+X: 0.0
+Y: 0.0
+Z: -0.0
+distance: 0.0
+azimuth: 0.0
+channel: 5
+ 
+X: 0.0
+Y: 0.0
+Z: -0.0
+distance: 0.0
+azimuth: 0.0
+channel: 6
+ 
+X: 0.0
+Y: 0.0
+Z: -0.0
+distance: 0.0
+azimuth: 0.0
+channel: 7
+ 
+X: 0.0
+Y: 0.0
+Z: -0.0
+distance: 0.0
+azimuth: 0.0
+channel: 8
+ 
+X: 0.0
+Y: 0.0
+Z: -0.0
+distance: 0.0
+azimuth: 0.0
+channel: 9
+ 
+X: 0.0
+Y: 0.0
+Z: -0.0
+distance: 0.0
+azimuth: 0.0
+channel: 10
+ 
+X: 0.0
+Y: 0.0
+Z: -0.0
+distance: 0.0
+azimuth: 0.0
+channel: 11
+ 
+X: 0.0
+Y: 0.0
+Z: -0.0
+distance: 0.0
+azimuth: 0.0
+channel: 12
+ 
+X: 0.0
+Y: 0.0
+Z: -0.0
+distance: 0.0
+azimuth: 0.0
+channel: 13
+ 
+X: 0.0
+Y: 0.0
+Z: -0.0
+distance: 0.0
+azimuth: 0.0
+channel: 14
+ 
+X: 0.0
+Y: 0.0
+Z: 0.0
+distance: 0.0
+azimuth: 0.0
+channel: 15
+ 
+X: 0.0
+Y: 0.0
+Z: -0.0
+distance: 0.0
+azimuth: 0.0
+channel: 16
+ 
+X: 0.0
+Y: 0.0
+Z: 0.0
+distance: 0.0
+azimuth: 0.0
+channel: 17
+ 
+X: 0.0
+Y: 0.0
+Z: -0.0
+distance: 0.0
+azimuth: 0.0
+channel: 18
+ 
+X: 0.0
+Y: 0.0
+Z: 0.0
+distance: 0.0
+azimuth: 0.0
+channel: 19
+ 
+X: 0.0
+Y: 0.0
+Z: -0.0
+distance: 0.0
+azimuth: 0.0
+channel: 20
+ 
+X: 0.0
+Y: 0.0
+Z: 0.0
+distance: 0.0
+azimuth: 0.0
+channel: 21
+ 
+X: 0.0
+Y: 0.0
+Z: -0.0
+distance: 0.0
+azimuth: 0.0
+channel: 22
+ 
+X: 0.0
+Y: 0.0
+Z: 0.0
+distance: 0.0
+azimuth: 0.0
+channel: 23
+ 
+X: 0.0
+Y: 0.0
+Z: -0.0
+distance: 0.0
+azimuth: 0.0
+channel: 24
+ 
+X: 0.0
+Y: 0.0
+Z: 0.0
+distance: 0.0
+azimuth: 0.0
+channel: 25
+ 
+X: 0.0
+Y: 0.0
+Z: -0.0
+distance: 0.0
+azimuth: 0.0
+channel: 26
+ 
+X: 0.0
+Y: 0.0
+Z: 0.0
+distance: 0.0
+azimuth: 0.0
+channel: 27
+ 
+X: 0.0
+Y: 0.0
+Z: -0.0
+distance: 0.0
+azimuth: 0.0
+channel: 28
+ 
+X: 0.0
+Y: 0.0
+Z: 0.0
+distance: 0.0
+azimuth: 0.0
+channel: 29
+ 
+X: 0.0
+Y: 0.0
+Z: -0.0
+distance: 0.0
+azimuth: 0.0
+channel: 30
+ 
+X: 0.0
+Y: 0.0
+Z: 0.0
+distance: 0.0
+azimuth: 0.0
+channel: 31
+ 
+X: 0.0
+Y: 0.0
+Z: -0.0
+distance: 0.0
+azimuth: 0.0
+channel: 0
+ 
+X: 0.0
+Y: 0.0
+Z: -0.0
+distance: 0.0
+azimuth: 0.0
+channel: 1
+ 
+X: 0.0
+Y: 0.0
+Z: -0.0
+distance: 0.0
+azimuth: 0.0
+channel: 2
+ 
+X: 0.0
+Y: 0.0
+Z: -0.0
+distance: 0.0
+azimuth: 0.0
+channel: 3
+ 
+X: 0.0
+Y: 0.0
+Z: -0.0
+distance: 0.0
+azimuth: 0.0
+channel: 4
+ 
+X: 0.0
+Y: 0.0
+Z: -0.0
+distance: 0.0
+azimuth: 0.0
+channel: 5
+ 
+X: 0.0
+Y: 0.0
+Z: -0.0
+distance: 0.0
+azimuth: 0.0
+channel: 6
+ 
+X: 0.0
+Y: 0.0
+Z: -0.0
+distance: 0.0
+azimuth: 0.0
+channel: 7
+ 
+X: 0.0
+Y: 0.0
+Z: -0.0
+distance: 0.0
+azimuth: 0.0
+channel: 8
+ 
+X: 0.0
+Y: 0.0
+Z: -0.0
+distance: 0.0
+azimuth: 0.0
+channel: 9
+ 
+X: 0.0
+Y: 0.0
+Z: -0.0
+distance: 0.0
+azimuth: 0.0
+channel: 10
+ 
+X: 0.0
+Y: 0.0
+Z: -0.0
+distance: 0.0
+azimuth: 0.0
+channel: 11
+ 
+X: 0.0
+Y: 0.0
+Z: -0.0
+distance: 0.0
+azimuth: 0.0
+channel: 12
+ 
+X: 0.0
+Y: 0.0
+Z: -0.0
+distance: 0.0
+azimuth: 0.0
+channel: 13
+ 
+X: 0.0
+Y: 0.0
+Z: -0.0
+distance: 0.0
+azimuth: 0.0
+channel: 14
+ 
+X: 0.0
+Y: 0.0
+Z: 0.0
+distance: 0.0
+azimuth: 0.0
+channel: 15
+ 
+X: 0.0
+Y: 0.0
+Z: -0.0
+distance: 0.0
+azimuth: 0.0
+channel: 16
+ 
+X: 0.0
+Y: 0.0
+Z: 0.0
+distance: 0.0
+azimuth: 0.0
+channel: 17
+ 
+X: 0.0
+Y: 0.0
+Z: -0.0
+distance: 0.0
+azimuth: 0.0
+channel: 18
+ 
+X: 0.0
+Y: 0.0
+Z: 0.0
+distance: 0.0
+azimuth: 0.0
+channel: 19
+ 
+X: 0.0
+Y: 0.0
+Z: -0.0
+distance: 0.0
+azimuth: 0.0
+channel: 20
+ 
+X: 0.0
+Y: 0.0
+Z: 0.0
+distance: 0.0
+azimuth: 0.0
+channel: 21
+ 
+X: 0.0
+Y: 0.0
+Z: -0.0
+distance: 0.0
+azimuth: 0.0
+channel: 22
+ 
+X: 0.0
+Y: 0.0
+Z: 0.0
+distance: 0.0
+azimuth: 0.0
+channel: 23
+ 
+X: 0.0
+Y: 0.0
+Z: -0.0
+distance: 0.0
+azimuth: 0.0
+channel: 24
+ 
+X: 0.0
+Y: 0.0
+Z: 0.0
+distance: 0.0
+azimuth: 0.0
+channel: 25
+ 
+X: 0.0
+Y: 0.0
+Z: -0.0
+distance: 0.0
+azimuth: 0.0
+channel: 26
+ 
+X: 0.0
+Y: 0.0
+Z: 0.0
+distance: 0.0
+azimuth: 0.0
+channel: 27
+ 
+X: 0.0
+Y: 0.0
+Z: -0.0
+distance: 0.0
+azimuth: 0.0
+channel: 28
+ 
+X: 0.0
+Y: 0.0
+Z: 0.0
+distance: 0.0
+azimuth: 0.0
+channel: 29
+ 
+X: 0.0
+Y: 0.0
+Z: -0.0
+distance: 0.0
+azimuth: 0.0
+channel: 30
+ 
+X: 0.0
+Y: 0.0
+Z: 0.0
+distance: 0.0
+azimuth: 0.0
+channel: 31
+ 
+X: 0.0
+Y: 0.0
+Z: -0.0
+distance: 0.0
+azimuth: 0.0
+channel: 0
+ 
+X: 0.0
+Y: 0.0
+Z: -0.0
+distance: 0.0
+azimuth: 0.0
+channel: 1
+ 
+X: 0.0
+Y: 0.0
+Z: -0.0
+distance: 0.0
+azimuth: 0.0
+channel: 2
+ 
+X: 0.0
+Y: 0.0
+Z: -0.0
+distance: 0.0
+azimuth: 0.0
+channel: 3
+ 
+X: 0.0
+Y: 0.0
+Z: -0.0
+distance: 0.0
+azimuth: 0.0
+channel: 4
+ 
+X: 0.0
+Y: 0.0
+Z: -0.0
+distance: 0.0
+azimuth: 0.0
+channel: 5
+ 
+X: 0.0
+Y: 0.0
+Z: -0.0
+distance: 0.0
+azimuth: 0.0
+channel: 6
+ 
+X: 0.0
+Y: 0.0
+Z: -0.0
+distance: 0.0
+azimuth: 0.0
+channel: 7
+ 
+X: 0.0
+Y: 0.0
+Z: -0.0
+distance: 0.0
+azimuth: 0.0
+channel: 8
+ 
+X: 0.0
+Y: 0.0
+Z: -0.0
+distance: 0.0
+azimuth: 0.0
+channel: 9
+ 
+X: 0.0
+Y: 0.0
+Z: -0.0
+distance: 0.0
+azimuth: 0.0
+channel: 10
+ 
+X: 0.0
+Y: 0.0
+Z: -0.0
+distance: 0.0
+azimuth: 0.0
+channel: 11
+ 
+X: 0.0
+Y: 0.0
+Z: -0.0
+distance: 0.0
+azimuth: 0.0
+channel: 12
+ 
+X: 0.0
+Y: 0.0
+Z: -0.0
+distance: 0.0
+azimuth: 0.0
+channel: 13
+ 
+X: 0.0
+Y: 0.0
+Z: -0.0
+distance: 0.0
+azimuth: 0.0
+channel: 14
+ 
+X: 0.0
+Y: 0.0
+Z: 0.0
+distance: 0.0
+azimuth: 0.0
+channel: 15
+ 
+X: 0.0
+Y: 0.0
+Z: -0.0
+distance: 0.0
+azimuth: 0.0
+channel: 16
+ 
+X: 0.0
+Y: 0.0
+Z: 0.0
+distance: 0.0
+azimuth: 0.0
+channel: 17
+ 
+X: 0.0
+Y: 0.0
+Z: -0.0
+distance: 0.0
+azimuth: 0.0
+channel: 18
+ 
+X: 0.0
+Y: 0.0
+Z: 0.0
+distance: 0.0
+azimuth: 0.0
+channel: 19
+ 
+X: 0.0
+Y: 0.0
+Z: -0.0
+distance: 0.0
+azimuth: 0.0
+channel: 20
+ 
+X: 0.0
+Y: 0.0
+Z: 0.0
+distance: 0.0
+azimuth: 0.0
+channel: 21
+ 
+X: 0.0
+Y: 0.0
+Z: -0.0
+distance: 0.0
+azimuth: 0.0
+channel: 22
+ 
+X: 0.0
+Y: 0.0
+Z: 0.0
+distance: 0.0
+azimuth: 0.0
+channel: 23
+ 
+X: 0.0
+Y: 0.0
+Z: -0.0
+distance: 0.0
+azimuth: 0.0
+channel: 24
+ 
+X: 0.0
+Y: 0.0
+Z: 0.0
+distance: 0.0
+azimuth: 0.0
+channel: 25
+ 
+X: 0.0
+Y: 0.0
+Z: -0.0
+distance: 0.0
+azimuth: 0.0
+channel: 26
+ 
+X: 0.0
+Y: 0.0
+Z: 0.0
+distance: 0.0
+azimuth: 0.0
+channel: 27
+ 
+X: 0.0
+Y: 0.0
+Z: -0.0
+distance: 0.0
+azimuth: 0.0
+channel: 28
+ 
+X: 0.0
+Y: 0.0
+Z: 0.0
+distance: 0.0
+azimuth: 0.0
+channel: 29
+ 
+X: 0.0
+Y: 0.0
+Z: -0.0
+distance: 0.0
+azimuth: 0.0
+channel: 30
+ 
+X: 0.0
+Y: 0.0
+Z: 0.0
+distance: 0.0
+azimuth: 0.0
+channel: 31
+ 
+X: 0.0
+Y: 0.0
+Z: -0.0
+distance: 0.0
+azimuth: 0.0
+channel: 0
+ 
+X: 0.0
+Y: 0.0
+Z: -0.0
+distance: 0.0
+azimuth: 0.0
+channel: 1
+ 
+X: 0.0
+Y: 0.0
+Z: -0.0
+distance: 0.0
+azimuth: 0.0
+channel: 2
+ 
+X: 0.0
+Y: 0.0
+Z: -0.0
+distance: 0.0
+azimuth: 0.0
+channel: 3
+ 
+X: 0.0
+Y: 0.0
+Z: -0.0
+distance: 0.0
+azimuth: 0.0
+channel: 4
+ 
+X: 0.0
+Y: 0.0
+Z: -0.0
+distance: 0.0
+azimuth: 0.0
+channel: 5
+ 
+X: 0.0
+Y: 0.0
+Z: -0.0
+distance: 0.0
+azimuth: 0.0
+channel: 6
+ 
+X: 0.0
+Y: 0.0
+Z: -0.0
+distance: 0.0
+azimuth: 0.0
+channel: 7
+ 
+X: 0.0
+Y: 0.0
+Z: -0.0
+distance: 0.0
+azimuth: 0.0
+channel: 8
+ 
+X: 0.0
+Y: 0.0
+Z: -0.0
+distance: 0.0
+azimuth: 0.0
+channel: 9
+ 
+X: 0.0
+Y: 0.0
+Z: -0.0
+distance: 0.0
+azimuth: 0.0
+channel: 10
+ 
+X: 0.0
+Y: 0.0
+Z: -0.0
+distance: 0.0
+azimuth: 0.0
+channel: 11
+ 
+X: 0.0
+Y: 0.0
+Z: -0.0
+distance: 0.0
+azimuth: 0.0
+channel: 12
+ 
+X: 0.0
+Y: 0.0
+Z: -0.0
+distance: 0.0
+azimuth: 0.0
+channel: 13
+ 
+X: 0.0
+Y: 0.0
+Z: -0.0
+distance: 0.0
+azimuth: 0.0
+channel: 14
+ 
+X: 0.0
+Y: 0.0
+Z: 0.0
+distance: 0.0
+azimuth: 0.0
+channel: 15
+ 
+X: 0.0
+Y: 0.0
+Z: -0.0
+distance: 0.0
+azimuth: 0.0
+channel: 16
+ 
+X: 0.0
+Y: 0.0
+Z: 0.0
+distance: 0.0
+azimuth: 0.0
+channel: 17
+ 
+X: 0.0
+Y: 0.0
+Z: -0.0
+distance: 0.0
+azimuth: 0.0
+channel: 18
+ 
+X: 0.0
+Y: 0.0
+Z: 0.0
+distance: 0.0
+azimuth: 0.0
+channel: 19
+ 
+X: 0.0
+Y: 0.0
+Z: -0.0
+distance: 0.0
+azimuth: 0.0
+channel: 20
+ 
+X: 0.0
+Y: 0.0
+Z: 0.0
+distance: 0.0
+azimuth: 0.0
+channel: 21
+ 
+X: 0.0
+Y: 0.0
+Z: -0.0
+distance: 0.0
+azimuth: 0.0
+channel: 22
+ 
+X: 0.0
+Y: 0.0
+Z: 0.0
+distance: 0.0
+azimuth: 0.0
+channel: 23
+ 
+X: 0.0
+Y: 0.0
+Z: -0.0
+distance: 0.0
+azimuth: 0.0
+channel: 24
+ 
+X: 0.0
+Y: 0.0
+Z: 0.0
+distance: 0.0
+azimuth: 0.0
+channel: 25
+ 
+X: 0.0
+Y: 0.0
+Z: -0.0
+distance: 0.0
+azimuth: 0.0
+channel: 26
+ 
+X: 0.0
+Y: 0.0
+Z: 0.0
+distance: 0.0
+azimuth: 0.0
+channel: 27
+ 
+X: 0.0
+Y: 0.0
+Z: -0.0
+distance: 0.0
+azimuth: 0.0
+channel: 28
+ 
+X: 0.0
+Y: 0.0
+Z: 0.0
+distance: 0.0
+azimuth: 0.0
+channel: 29
+ 
+X: 0.0
+Y: 0.0
+Z: -0.0
+distance: 0.0
+azimuth: 0.0
+channel: 30
+ 
+X: 0.0
+Y: 0.0
+Z: 0.0
+distance: 0.0
+azimuth: 0.0
+channel: 31
+ 
